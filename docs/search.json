@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dr. Swati S. Jha",
+    "section": "",
+    "text": "Welcome to my website!\nI am a General Physician with a Master’s in Healthcare Administration from the University of North Carolina, Charlotte. Currently, pursuing my Master’s in the Clinical Research Scholars Program at Case Western Reserve University. I intend to combine my clinical expertise as a general physician with training in healthcare management and ongoing clinical research education to create meaningful improvements in patient care.\nOutside of the curricular work, I like to indulge in multicultural experiences through music, art, and food, and I also enjoy learning new languages.\nI invite you to explore my website and learn more about my work. Please feel free to contact me if you have any questions or would like to discuss potential projects."
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "What it Means to be a Modern Scientist",
+    "section": "",
+    "text": "An idea that has significantly shaped my thinking comes from Jeffrey Leek’s How to Be a Modern Scientist. The book emphasizes that being a scientist today is not only about generating knowledge, but also about how effectively that knowledge is communicated, shared, and applied. As someone training in clinical research and having practiced medicine, this perspective strongly resonates with me. In healthcare, research has little value if it does not ultimately reach clinicians, inform decisions, or improve patient outcomes. The idea that clarity and accessibility matter as much as technical rigor has influenced how I think about both writing and presenting scientific work. Another concept that stood out to me is the importance of openness in research. Sharing data, methods, and findings transparently strengthens trust and allows others to build upon existing work. In clinical medicine, where decisions directly affect patient lives, this kind of transparency is especially critical. It supports reproducibility, collaboration, and ultimately better care. I was also drawn to the idea that modern scientific progress often comes from connecting existing ideas in new ways rather than starting entirely from scratch. This reflects the interdisciplinary path I am pursuing, bringing together clinical practice, healthcare administration, and research to approach problems from multiple angles. This perspective has reinforced my goal of not only contributing to research, but doing so in a way that is clear, collaborative, and impactful. I aim to ensure that the work I am involved in can meaningfully translate into improved patient care and healthcare systems."
+  }
+]
