@@ -20,9 +20,6 @@ format:
     toc: false
 ---
 
-[Download CV](CV.pdf)
-
-
 # Welcome to my website!
 
 I am a General Physician with a Master's in Healthcare Administration from the
