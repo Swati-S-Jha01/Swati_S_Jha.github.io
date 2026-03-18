@@ -17,8 +17,10 @@ about:
       href: "CV.pdf"
 format:
   html:
-    toc: false
 ---
+
+[Download CV](CV.pdf)
+
 
 # Welcome to my website!
 
