@@ -12,6 +12,7 @@ about:
     - icon: envelope
       text: "Email"
       href: "mailto:swati.s.jha01@gmail.com"
+
 format:
   html:
    toc: false
