@@ -15,7 +15,7 @@ about:
 
 format:
   html:
-   toc: false
+    toc: false
 ---
 
 [Download CV](CV.pdf)
