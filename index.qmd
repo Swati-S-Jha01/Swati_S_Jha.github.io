@@ -20,6 +20,8 @@ format:
     toc: false
 ---
 
+[Download CV](CV.pdf)
+
 
 # Welcome to my website!
 
